@@ -1,0 +1,1 @@
+Video folder placeholder. This test project contains no login screen.

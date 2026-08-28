@@ -1,0 +1,1 @@
+document.getElementById("status").textContent="JavaScript يعمل بنجاح ✅ — لا توجد شاشة دخول في المشروع";
